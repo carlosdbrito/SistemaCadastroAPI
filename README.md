@@ -1,4 +1,4 @@
-# Sistema Controle de Contatos
+# Sistema de gestão de Cadastro de Contatos
 ### Essa aplicação é  API REST desenvolvida em Java, utilizando Spring Boot que gerencia um sistema de cadastro de Pessoas e seus respectivos Contatos
 
 ### Principais tecnologias/bibliotecas utilizadas
